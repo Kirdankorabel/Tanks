@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedTank
+  - BlueTank
+  - RedBase
+  - BlueBase
+  - RedProjectile
+  - BlueProjectile
+  - Loot
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - RedTanks
+  - Water
+  - UI
+  - Projectiles
+  - Loot
+  - Bases
+  - BlueTanks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: -2
+    uniqueID: 1998154257
+    locked: 0
+  - name: -1
+    uniqueID: 3473910633
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2606738407
+    locked: 0
+  - name: 2
+    uniqueID: 10530175
+    locked: 0
